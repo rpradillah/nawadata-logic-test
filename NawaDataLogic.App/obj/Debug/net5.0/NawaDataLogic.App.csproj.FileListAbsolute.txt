@@ -1,0 +1,16 @@
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.exe
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.deps.json
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.runtimeconfig.json
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.runtimeconfig.dev.json
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.dll
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\bin\Debug\net5.0\ref\NawaDataLogic.App.dll
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.pdb
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.csproj.AssemblyReference.cache
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.AssemblyInfoInputs.cache
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.AssemblyInfo.cs
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.csproj.CoreCompileInputs.cache
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.dll
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\ref\NawaDataLogic.App.dll
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.pdb
+C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.genruntimeconfig.cache

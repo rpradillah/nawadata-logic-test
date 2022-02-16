@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NawaDataLogic.App/1.0.0": {
+        "runtime": {
+          "NawaDataLogic.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NawaDataLogic.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

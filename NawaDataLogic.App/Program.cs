@@ -23,6 +23,9 @@ namespace NawaDataLogic.App
                         case 1:
                             Test01 test01 = new Test01();
                             break;
+                        case 2:
+                            Test02 test02 = new Test02();
+                            break;
                         default:
                             Console.WriteLine("Test is not available.");
                             break;

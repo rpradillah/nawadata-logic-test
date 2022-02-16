@@ -14,3 +14,19 @@ C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0
 C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\ref\NawaDataLogic.App.dll
 C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.pdb
 C:\Users\rprad\source\repos\NawaDataLogic.App\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.genruntimeconfig.cache
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.exe
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.deps.json
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.runtimeconfig.json
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.runtimeconfig.dev.json
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.dll
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\bin\Debug\net5.0\ref\NawaDataLogic.App.dll
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\bin\Debug\net5.0\NawaDataLogic.App.pdb
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.csproj.AssemblyReference.cache
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.AssemblyInfoInputs.cache
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.AssemblyInfo.cs
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.csproj.CoreCompileInputs.cache
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.dll
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\ref\NawaDataLogic.App.dll
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.pdb
+D:\KERJA !!!\TechTest-NawaData\nawadata-logic-test\NawaDataLogic.App\obj\Debug\net5.0\NawaDataLogic.App.genruntimeconfig.cache
